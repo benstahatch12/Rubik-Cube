@@ -11,5 +11,6 @@
 One thing you need to know is Algorithms. Algorithms are a self-contained sequence of actions to be performed. You will be using plenty of algorithms as you solve the cube. 
 <br>
 <br>
+
 </body>
 </html>
