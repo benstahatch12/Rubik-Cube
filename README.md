@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>Page Title</title>
+</head>
 <body>
 
-<h1>
-
-<p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
-The image will float to the right of the text.</p>
-
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
 
 </body>
 </html>
