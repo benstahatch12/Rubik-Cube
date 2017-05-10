@@ -1,2 +1,9 @@
-# Rubiks-Cube
-How to solve a Rubik Cube. It is fairly simple.
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
