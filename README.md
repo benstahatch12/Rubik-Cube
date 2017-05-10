@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Page Title</title>
-</head>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>
+
+
+<h1>How to solve a Rubik's Cube</h1>
+<p>Solving the Rubik's Cube is fairly simple. I swear.
+
 
 </body>
-</html>
+<html>
