@@ -4,7 +4,8 @@
 
 <h1>
 
-<img src="wrongname.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
+<p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
+The image will float to the right of the text.</p>
 
 
 </body>
